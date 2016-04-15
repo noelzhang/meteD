@@ -15,6 +15,6 @@ Use **MeteD** and park your car more easily at Dartmouth.
 * `git checkout master`: Checkout back to master
 * `git pull`: Make sure the master branch is up to date
 * `git checkout local_br`: Checkout out to local branch
-* `git rebase master`: [Rebase](https://git-scm.com/docs/git-rebase)
+* `git rebase master -i`: [Rebase](https://git-scm.com/docs/git-rebase)
 * `git merge master`: Merge to master branch
 * `git push`: Push
