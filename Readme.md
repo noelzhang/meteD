@@ -6,15 +6,15 @@ Use **MeteD** and park your car more easily at Dartmouth.
 ## Functional
 
 ## Development Workflow using Git
-* git clone https://github.com/noelzhang/meteD.git
-* git branch local_br
-* git checkout local_br
-* <your code changes>
-* git add -A
-* git commit -m "commit message"
-* git checkout master
-* git pull
-* git checkout local_br
-* git rebase master
-* git merge master
-* git push
+* `git clone https://github.com/noelzhang/meteD.git`
+* `git branch local_br`: Create a local branch for development
+* `git checkout local_br`: Checkout the local branch
+* **_do some code changes_**
+* `git add -A`: Stage changes
+* `git commit -m "commit message"`: Commit changes locally
+* `git checkout master`: Checkout back to master
+* `git pull`: Make sure the master branch is up to date
+* `git checkout local_br`: Checkout out to local branch
+* `git rebase master`: [Rebase](https://git-scm.com/docs/git-rebase)
+* `git merge master`: Merge to master branch
+* `git push`: Push
