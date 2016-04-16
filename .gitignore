@@ -1,5 +1,11 @@
 .DS_Store
 
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+
 # Built application files
 *.apk
 *.ap_
