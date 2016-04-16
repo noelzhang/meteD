@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c656c542-2b38-4969-899f-112fdad0aa3a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/libs/backend-android-endpoints.jar" afterPath="$PROJECT_DIR$/backend/build/libs/backend-android-endpoints.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/client-libs/messaging-v1-java.zip" afterPath="$PROJECT_DIR$/backend/build/client-libs/messaging-v1-java.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/client-libs/registration-v1-java.zip" afterPath="$PROJECT_DIR$/backend/build/client-libs/registration-v1-java.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/model/CollectionResponseRegistrationRecord.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/model/CollectionResponseRegistrationRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/model/CollectionResponseRegistrationRecord.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/model/CollectionResponseRegistrationRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/Messaging.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/Messaging.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/Messaging.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/Messaging.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingRequest.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingRequest.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingRequestInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingRequestInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingScopes.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingScopes.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/Registration.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/Registration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/Registration.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/Registration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/model/RegistrationRecord.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/model/RegistrationRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/model/RegistrationRecord.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/model/RegistrationRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationRequest.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationRequest.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationRequestInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationRequestInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationScopes.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationScopes.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/backend.iml" afterPath="$PROJECT_DIR$/backend/backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_23_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_23_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c656c542-2b38-4969-899f-112fdad0aa3a" name="Default" comment="" />
     <ignored path="meteD.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +51,8 @@
       <file leaf-file-name="ParkingSpot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/src/main/java/edu/dartmouth/cs/meted/data/ParkingSpot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41746247">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.6562074">
+              <caret line="37" column="68" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -3272,8 +3241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/src/main/java/edu/dartmouth/cs/meted/data/ParkingSpot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41746247">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.6562074">
+          <caret line="37" column="68" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
           <folding />
         </state>
       </provider>
