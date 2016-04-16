@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                         new AndroidJsonFactory(), null)
                         // Need setRootUrl and setGoogleClientRequestInitializer only for local testing,
                         // otherwise they can be skipped
-                        .setRootUrl("http://10.0.0.112:8080/_ah/api/")
+                        .setRootUrl("http://10.31.37.211:8080/_ah/api/")
                         .setGoogleClientRequestInitializer(new GoogleClientRequestInitializer() {
                             @Override
                             public void initialize(AbstractGoogleClientRequest<?> abstractGoogleClientRequest)
