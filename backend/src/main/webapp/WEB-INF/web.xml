@@ -23,6 +23,35 @@
         <url-pattern>/_ah/spi/*</url-pattern>
     </servlet-mapping>
 
+
+    <servlet>
+        <servlet-name>add</servlet-name>
+        <servlet-class>edu.dartmouth.cs.meted.AddServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>add</servlet-name>
+        <url-pattern>/add.do</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>delete</servlet-name>
+        <servlet-class>edu.dartmouth.cs.meted.DeleteServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>delete</servlet-name>
+        <url-pattern>/delete.do</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>update</servlet-name>
+        <servlet-class>edu.dartmouth.cs.meted.UpdateServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>update</servlet-name>
+        <url-pattern>/update.do</url-pattern>
+    </servlet-mapping>
+
+
     <welcome-file-list>
         <welcome-file>index.html</welcome-file>
     </welcome-file-list>
