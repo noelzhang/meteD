@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c656c542-2b38-4969-899f-112fdad0aa3a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/libs/backend-android-endpoints.jar" afterPath="$PROJECT_DIR$/backend/build/libs/backend-android-endpoints.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/client-libs/messaging-v1-java.zip" afterPath="$PROJECT_DIR$/backend/build/client-libs/messaging-v1-java.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/client-libs/registration-v1-java.zip" afterPath="$PROJECT_DIR$/backend/build/client-libs/registration-v1-java.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/model/CollectionResponseRegistrationRecord.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/model/CollectionResponseRegistrationRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/model/CollectionResponseRegistrationRecord.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/model/CollectionResponseRegistrationRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/Messaging.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/Messaging.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/Messaging.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/Messaging.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingRequest.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingRequest.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingRequestInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingRequestInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingScopes.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/messaging/MessagingScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingScopes.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/messaging-v1-java.zip-unzipped/messaging/src/main/java/edu/dartmouth/cs/meted/messaging/MessagingScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/Registration.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/Registration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/Registration.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/Registration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/model/RegistrationRecord.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/model/RegistrationRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/model/RegistrationRecord.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/model/RegistrationRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationRequest.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationRequest.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationRequestInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationRequestInitializer.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationRequestInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationScopes.java" afterPath="$PROJECT_DIR$/backend/build/generated-source/endpoints/java/edu/dartmouth/cs/meted/registration/RegistrationScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationScopes.java" afterPath="$PROJECT_DIR$/backend/build/tmp/appengineEndpointsExpandClientLibs/registration-v1-java.zip-unzipped/registration/src/main/java/edu/dartmouth/cs/meted/registration/RegistrationScopes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/backend.iml" afterPath="$PROJECT_DIR$/backend/backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_23_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_23_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/edu/dartmouth/cs/meted/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/dartmouth/cs/meted/MainActivity.java" />
     </list>
     <ignored path="meteD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,12 +50,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParkingSpot.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ParkingSpot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/src/main/java/edu/dartmouth/cs/meted/data/ParkingSpot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41746247">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="68" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/dartmouth/cs/meted/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.22783083">
+              <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
+              <folding>
+                <element signature="e#2088#2477#0" expanded="true" />
+                <element signature="e#2476#2477#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2669,6 +2653,7 @@
         <option value="$PROJECT_DIR$/backend/src/main/webapp/dashboard.html" />
         <option value="$PROJECT_DIR$/backend/src/main/java/edu/dartmouth/cs/meted/AddServlet.java" />
         <option value="$PROJECT_DIR$/backend/src/main/java/edu/dartmouth/cs/meted/data/ParkingSpot.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/edu/dartmouth/cs/meted/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2823,6 +2808,90 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meted" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3272,9 +3341,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/src/main/java/edu/dartmouth/cs/meted/data/ParkingSpot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41746247">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="68" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/dartmouth/cs/meted/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.22783083">
+          <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
+          <folding>
+            <element signature="e#2088#2477#0" expanded="true" />
+            <element signature="e#2476#2477#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
